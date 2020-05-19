@@ -7,4 +7,8 @@ public class deneme {
     public boolean isDenemek(){
         return true;
     }
+
+    public boolean isDenemek(boolean isTrue){
+        return true;
+    }
 }
