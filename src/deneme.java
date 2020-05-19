@@ -9,6 +9,6 @@ public class deneme {
     }
 
     public boolean isDenemek(boolean isTrue){
-        return true;
+        return false;
     }
 }
