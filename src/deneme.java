@@ -4,7 +4,7 @@ public class deneme {
         System.out.println("hello world");
     }
 
-    public boolean isDeneme(){
+    public boolean isDenemek(){
         return true;
     }
 }
