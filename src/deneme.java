@@ -1,7 +1,7 @@
 public class deneme {
 
     public static void main(String[] args) {
-        System.out.println("hello world hello world");
+        System.out.println("hello world hello world hi world");
     }
 
     public boolean isDenemek(){
